@@ -84,7 +84,7 @@ button {
     text-transform: uppercase;
 }
 
-.task {
+.input {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -135,7 +135,7 @@ button {
     width: 226px;
 }
 
-.list > .list__text {
+.list > .input {
     width: 226px;
 }
 
@@ -156,13 +156,11 @@ button {
 }
 
 /* Edit Task */
-.list .list__text {
+.list .input {
     display: none;
 }
 
-
-
-.edition .list__text {
+.edition .input {
     display: inline-block;
     width: 224px;
 }
