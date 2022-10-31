@@ -120,9 +120,6 @@ button {
     align-items: center;
 }
 
-.list > * {
-    vertical-align: middle;
-}
 
 .list > .list__checkbox {
     margin: 0 10px;
